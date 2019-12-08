@@ -26,7 +26,7 @@ Publications on edge computing.
 5.	洪学海, 汪洋. 边缘计算技术发展与对策研究[J]. 中国工程科学, 2018, 20: 28–34.
 
 # Special Topics
-##Network
+## Network
 
 1.	VASILAKOS A V, LI Z, SIMON G等. Information centric network: Research 
     challenges and opportunities[J]. Journal of Network and Computer Applications,
