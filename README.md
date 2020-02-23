@@ -49,3 +49,15 @@ Publications on edge computing.
    > 初步的答案。如果仅是对边缘的优势有一个粗略的认识，那么本文会给出优势背后的
    > 细节层次的介绍，有助于在以后开发出适合边缘计算的应用。
 
+## Edge Nodes Topology
+1.  > Jiang X, Shokri-Ghadikolaei H, Fodor G等. Low-Latency Networking: Where 
+      Latency Lurks and How to Tame It[J]. Proceedings of the IEEE, Institute of
+      Electrical and Electronics Engineers (IEEE), 2019, 107(2): 280–306.
+
+2. > Xiang C, Wang X, Chen Q等. No-jump-into-latency in China's internet![A]. 
+     Proceedings of the International Symposium on Quality of Service - IWQoS'19[C].
+    ACM Press, 2019.
+    > 文献`1`的列出一些关键领域的应用对时延、丢包率的要求，文献`2`会列出当前中国
+    > 路由器与覆盖地理距离的关系（单个路由器覆盖约5km半径)，两篇文章将有助于理解
+    > 不同的服务，边缘节点应该按什么样的密度、距离来部署。
+
