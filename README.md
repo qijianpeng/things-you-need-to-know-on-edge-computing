@@ -61,3 +61,9 @@ Publications on edge computing.
     > 路由器与覆盖地理距离的关系（单个路由器覆盖约5km半径)，两篇文章将有助于理解
     > 不同的服务，边缘节点应该按什么样的密度、距离来部署。
 
+## Edge Intelligence
+1. > Wang X, Han Y, Leung V C M, et al. Convergence of edge computing and deep
+     learning: A comprehensive survey[J]. IEEE Communications Surveys & Tutorials,
+     2020, 22(2): 869-904.
+     > 关于边缘智能的综述，涉及到学习模型、架构等。
+
