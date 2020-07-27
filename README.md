@@ -66,4 +66,11 @@ Publications on edge computing.
      learning: A comprehensive survey[J]. IEEE Communications Surveys & Tutorials,
      2020, 22(2): 869-904.
      > 关于边缘智能的综述，涉及到学习模型、架构等。
-
+2. > Zeng L, Li E, Zhou Z, et al. Boomerang: On-demand cooperative deep neural 
+     network inference for edge intelligence on the industrial Internet of
+    Things[J]. IEEE Network, 2019, 33(5): 96-103.
+    > 边缘AI的一个具体实现，将model partition与early exit结合。文中强调，model 
+      partition的重点是如何选择partition point来最小化整体时延，整体时延主要包含
+      computation latency与transmission latency，在device侧与edge sever侧通过建
+      立参数与时延的回归模型来预测模型每一层的资源需求。为了进一步提升模型在
+      device侧的性能，又与DRL结合，降低在选取partition point与exit point时的能耗。
